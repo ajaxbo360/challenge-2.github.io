@@ -67,7 +67,7 @@ h1 {
 .annual-plan {
   display: flex;
   background-color: hsla(228, 100%, 98%, 0.897);
-  padding: 15px 4px;
+  padding: 15px 2px;
   justify-content: space-around;
   align-items: center;
   border-radius: 10px;
